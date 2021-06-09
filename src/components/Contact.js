@@ -4,7 +4,7 @@ import googleMap from '../images/googleMap.jpg';
 const Contact = () => {
     return (
         <section class="text-gray-400 bg-gray-900 body-font relative">
-            <h1 class="text-center md:text-9xl sm:text-5xl text-white">Want to Attribute?</h1>
+            <h1 class="text-center sm:text-9xl text-3xl text-white">Want to Attribute?</h1>
             <div class="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
                 
                 <div class="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
