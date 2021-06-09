@@ -5,6 +5,8 @@ import Features from './components/Features';
 import Hero from './components/Hero';
 import Testimonial from './components/Testimonial';
 import Gallery from './components/Gallery';
+import Footer from './components/Footer';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       
       <Features />
       <Testimonial />
+      <Contact />
+      <Footer />
     </div>
   );
 }

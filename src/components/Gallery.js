@@ -1,4 +1,10 @@
 import React from 'react';
+import gallery1 from '../images/gallery1.jpg';
+import gallery2 from '../images/gallery2.jpg';
+import gallery3 from '../images/gallery3.jpg';
+import gallery4 from '../images/gallery4.jpg';
+import gallery5 from '../images/gallery5.jpg';
+import gallery6 from '../images/gallery6.jpg';
 
 const Gallery = () => {
     return (
@@ -11,24 +17,24 @@ const Gallery = () => {
                 <div class="flex flex-wrap md:-m-2 -m-1">
                     <div class="flex flex-wrap w-1/2">
                         <div class="md:p-2 p-1 w-1/2">
-                            <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://dummyimage.com/500x300" />
+                            <img alt="gallery" class="w-full object-cover h-full object-center block" src={gallery1} />
                         </div>
                         <div class="md:p-2 p-1 w-1/2">
-                            <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://dummyimage.com/501x301" />
+                            <img alt="gallery" class="w-full object-cover h-full object-center block" src={gallery2} />
                         </div>
                         <div class="md:p-2 p-1 w-full">
-                            <img alt="gallery" class="w-full h-full object-cover object-center block" src="https://dummyimage.com/600x360" />
+                            <img alt="gallery" class="w-full h-full object-cover object-center block" src={gallery3} />
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="md:p-2 p-1 w-full">
-                            <img alt="gallery" class="w-full h-full object-cover object-center block" src="https://dummyimage.com/601x361" />
+                            <img alt="gallery" class="w-full h-full object-cover object-center block" src={gallery4} />
                         </div>
                         <div class="md:p-2 p-1 w-1/2">
-                            <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://dummyimage.com/502x302" />
+                            <img alt="gallery" class="w-full object-cover h-full object-center block" src={gallery5} />
                         </div>
                         <div class="md:p-2 p-1 w-1/2">
-                            <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://dummyimage.com/503x303" />
+                            <img alt="gallery" class="w-full object-cover h-full object-center block" src={gallery6} />
                         </div>
                     </div>
                 </div>
