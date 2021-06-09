@@ -9,7 +9,7 @@ const Hero = () => {
                     <img class="object-cover object-center rounded" alt="hero" src={heroImg} />
                 </div>
                 <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-                    <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Knausgaard typewriter readymade marfa</h1>
+                    <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Download Our Mobile App From Your Device</h1>
                     <p class="mb-8 leading-relaxed">Chillwave portland ugh, knausgaard fam polaroid iPhone. Man braid swag typewriter affogato, hella selvage wolf narwhal dreamcatcher.</p>
                     <div class="flex w-full md:justify-start justify-center items-end">
                         <div class="relative mr-4 lg:w-full xl:w-1/2 w-2/4">

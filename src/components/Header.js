@@ -13,10 +13,10 @@ const Header = () => {
                     <span class="ml-3 text-xl">SmilePlease</span>
                 </a>
                 <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
-                    <a class="mr-5 hover:text-white">Home</a>
+                    <a class="mr-5 hover:text-white">Gallery</a>
                     <a class="mr-5 hover:text-white">About</a>
                     <a class="mr-5 hover:text-white">Features</a>
-                    <a class="mr-5 hover:text-white">??</a>
+                    <a class="mr-5 hover:text-white">Contact Us</a>
                 </nav>
                 <button class="inline-flex items-center bg-purple-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-white mt-4 md:mt-0">Sign in
       <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">

@@ -3,7 +3,7 @@ import React from 'react';
 const Testimonial = () => {
     return (
         <section class="text-gray-400 bg-gray-900 body-font">
-            <h1 className="text-purple-800 text-5xl text-center title-font leading-relaxed">People are saying...</h1>
+            <h1 className="text-white text-5xl text-center title-font leading-relaxed">People are saying...</h1>
             <div class="container px-5 py-24 mx-auto">
                 <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="inline-block w-8 h-8 text-gray-500 mb-8" viewBox="0 0 975.036 975.036">

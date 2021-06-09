@@ -14,7 +14,6 @@ function App() {
       <Header />
       <Gallery />
       <Hero />
-      
       <Features />
       <Testimonial />
       <Contact />
